@@ -1,7 +1,9 @@
 
 # Mobile-device-progamming-personal-excercises-part3
+![image](https://github.com/user-attachments/assets/3fac2dc5-061c-4487-a469-f947d29504c2)
 
 ## 📱 Description of the Images
+
 - These two screenshots represent the user interface and behavior of a simple Android app named "My First App".
 
 Left Image (Before Button Click):
@@ -25,9 +27,13 @@ The user's name "Trần Thế Hảo" is styled in bold using a SpannableString.
 - Uses SpannableString to apply bold formatting to your name.
 - Updates the TextView to display the stylized message.
 ### 3. activity_main.xml
+------------
 ![image](https://github.com/user-attachments/assets/d8d82e44-7021-422b-8717-74380ee437b4)
+---------------
 - Initially displays "Hello" as set in the strings.xml.
+-------------
 ![image](https://github.com/user-attachments/assets/4a98af7c-5b6a-499e-9e7d-549810dec112)
+--------------
 - When clicked, triggers the logic in MainActivity.kt.
 ### Summary:
 - This exercise demonstrates:
