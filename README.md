@@ -1,5 +1,4 @@
 
-![image](https://github.com/user-attachments/assets/a9082cdb-1ba2-4fcf-ad52-c724eb82883a)
 # Mobile-device-progamming-personal-excercises-part3
 
 ## 📱 Description of the Images
