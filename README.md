@@ -1,6 +1,8 @@
 
 # Mobile-device-progamming-personal-excercises-part3
+
 ## Assigment 1: 
+
 ![image](https://github.com/user-attachments/assets/3fac2dc5-061c-4487-a469-f947d29504c2)
 
 ### 📱 Description of the Images
@@ -43,6 +45,7 @@ The user's name "Trần Thế Hảo" is styled in bold using a SpannableString.
 - Click event handling
 - Dynamic text update using SpannableString
 - Personalization by inserting and styling the developer’s name.
+  
 ### Assigment 2: 
 
 
