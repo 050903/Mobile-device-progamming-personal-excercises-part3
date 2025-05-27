@@ -160,11 +160,14 @@ o	Compose dependencies are up to date, eg:
 ##### 4.	Build and Run:
 •	Choose an emulator or physical device with API level 35+.
 •	Press Run to build and launch the app.
-##### 5. License
+##### 5. 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
 ![image](https://github.com/user-attachments/assets/8de48743-b076-4453-abb2-d0ab9a5a4ff1)
 ![image](https://github.com/user-attachments/assets/af56d527-c7c7-4b82-8960-2daffcd88f7d)
 
-## 👤 Author: Trần Thế Hảo - University of Transport and Communications, HCMC (UTH)
+## 👤 Author
+## Trần Thế Hảo
+## University of Transport Ho Chi Minh City (UTH)
 
 
 
